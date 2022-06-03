@@ -1,0 +1,29 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/cooking-react/node_modules
+/cooking-react/.pnp
+/cooking-react/.pnp.js
+
+# testing
+/cooking-react/coverage
+
+# production
+/cooking-react/build
+
+# misc
+/cooking-react/.DS_Store
+/cooking-react/.env.local
+/cooking-react/.env.development.local
+/cooking-react/.env.test.local
+/cooking-react/.env.production.local
+
+/cooking-react/npm-debug.log*
+/cooking-react/yarn-debug.log*
+/cooking-react/yarn-error.log*
+
+/ventaback/.idea
+/ventaback/.mvn
+/ventaback/target
+
+
